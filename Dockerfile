@@ -2,7 +2,7 @@
 FROM nginx:alpine
 
 # Метаданные образа
-LABEL maintainer="your.email@example.com"
+LABEL maintainer="luka117wm@icloud.com"
 LABEL version="1.0.0"
 LABEL description="Personal portfolio website"
 
