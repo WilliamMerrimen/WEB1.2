@@ -175,9 +175,8 @@ docker run -d -p 80:80 your-dockerhub-username/my-portfolio
 ## 👨‍💻 Автор
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- GitHub: [@Khon](https://github.com/WilliamMerrimen)
+- Email: luka117wm@icloud.com
 
 ## 🙏 Благодарности
 
