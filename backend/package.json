@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "Backend API for portfolio comments",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mysql2": "^3.6.0",
+    "body-parser": "^1.20.2"
+  },
+  "keywords": [
+    "api",
+    "comments",
+    "portfolio"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
